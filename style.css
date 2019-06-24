@@ -1,0 +1,25 @@
+body {
+  background-color: lightblue;
+}
+
+#main {
+  background-color: blueviolet;
+  width: 50vw;
+  margin: 0px 25vw;
+  justify-content: center;
+}
+
+img {
+  margin: 25px 120px;
+  width: 30vw
+}
+
+h1 {
+  font-family: 'Teko', sans-serif;
+  font-size: 60px;
+}
+
+#countdown {
+  font-family: 'Courgette', cursive;
+  font-size: 24px;
+}
